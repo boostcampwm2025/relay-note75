@@ -130,7 +130,7 @@ AI를 단순 보조 도구가 아닌, **성장을 위한 동료**로 활용해�
 
 <details>
   
-  <summary>J000</summary>
+  <summary>S035</summary>
 
   #### 퀘스트: 학습정리 기반 노래 생성하기
   
@@ -139,7 +139,7 @@ AI를 단순 보조 도구가 아닌, **성장을 위한 동료**로 활용해�
 
 <details>
   
-  <summary>J000</summary>
+  <summary>J217</summary>
 
   #### 퀘스트: 에러 메시지를 예술 작품으로 만들기
   
@@ -148,18 +148,18 @@ AI를 단순 보조 도구가 아닌, **성장을 위한 동료**로 활용해�
 
 <details>
   
-  <summary>J000</summary>
+  <summary>J247</summary>
 
-  #### 퀘스트: gist 홍보 포스터 만들기
+  #### 퀘스트: 에러 메시지를 예술 작품으로 만들기
   
   
 </details>
 
 <details>
   
-  <summary>J000</summary>
+  <summary>J273</summary>
 
-  #### 퀘스트: 학습정리 기반 노래 생성하기
+  #### 퀘스트: gist 홍보 포스터 만들기
   
   
 </details>
