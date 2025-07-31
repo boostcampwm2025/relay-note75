@@ -142,6 +142,8 @@ AI를 단순 보조 도구가 아닌, **성장을 위한 동료**로 활용해�
   <summary>J217</summary>
 
   #### 퀘스트: 에러 메시지를 예술 작품으로 만들기
+  <img width="578" height="540" alt="image" src="https://github.com/user-attachments/assets/17b6ecd7-2655-4cd0-8f9b-033784512440" />
+
   
   
 </details>
