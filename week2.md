@@ -137,6 +137,7 @@ AI를 단순 보조 도구가 아닌, **성장을 위한 동료**로 활용해�
   가사 생성 내용 : https://chatgpt.com/share/688c3648-2450-8001-b234-05f77cd487a8
   노래 생성 1 : https://suno.com/s/Ev2wItroYFMrzZEi
   노래 생성 2 : https://suno.com/s/wsJqLPGkq4G0HSp1
+  느낀점 : 
   
 </details>
 
@@ -146,7 +147,7 @@ AI를 단순 보조 도구가 아닌, **성장을 위한 동료**로 활용해�
 
   #### 퀘스트: 에러 메시지를 예술 작품으로 만들기
   <img width="578" height="540" alt="image" src="https://github.com/user-attachments/assets/17b6ecd7-2655-4cd0-8f9b-033784512440" />
-
+느낀점 : 
   
   
 </details>
@@ -160,7 +161,7 @@ AI를 단순 보조 도구가 아닌, **성장을 위한 동료**로 활용해�
   `"TypeError: undefined is not a function"이 화면에 떠있고, 사람이 모니터 앞에 엎드려서 자고있어. 그리고 그 사람 앞에서 고양이가 키보드를 두드리고 있는 그림 그려줘. 지브리 스타일로.`
   
   <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1ea49ee-9508-4a4d-a342-0b181baab686" />
-
+느낀점 : 
   
 </details>
 
@@ -170,6 +171,11 @@ AI를 단순 보조 도구가 아닌, **성장을 위한 동료**로 활용해�
 
   #### 퀘스트: gist 홍보 포스터 만들기
   <img width="584" height="447" alt="릴프 2주차 홍보포스터 " src="https://github.com/user-attachments/assets/4d4fc7eb-cd94-4a86-ac83-36d4b80a559d" /><br>
+
+  느낀점 : 생각보다 원하는 이미지를 만들어내는 데에 프롬프트으 역할이 중요하다는 생각이 들었다.<br>
+  단순히 README나 git 저장소의 url만 넣어서는 원하는 포스터가 생성되지 않는다.<br>
+  해당 데이터를 어떻게 사용할지에 대한 지침이 없다면 아주 추상적으로 포스터가 만들어지는 것 같다<br>
+
 
   
 </details>
