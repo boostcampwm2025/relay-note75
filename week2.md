@@ -133,7 +133,10 @@ AI를 단순 보조 도구가 아닌, **성장을 위한 동료**로 활용해�
   <summary>S035</summary>
 
   #### 퀘스트: 학습정리 기반 노래 생성하기
-  
+
+  가사 생성 내용 : https://chatgpt.com/share/688c3648-2450-8001-b234-05f77cd487a8
+  노래 생성 1 : https://suno.com/s/Ev2wItroYFMrzZEi
+  노래 생성 2 : https://suno.com/s/wsJqLPGkq4G0HSp1
   
 </details>
 
