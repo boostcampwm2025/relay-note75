@@ -146,7 +146,7 @@ AI를 단순 보조 도구가 아닌, **성장을 위한 동료**로 활용해�
   <summary>J217</summary>
 
   #### 퀘스트: 에러 메시지를 예술 작품으로 만들기
-  <img width="578" height="540" alt="image" src="https://github.com/user-attachments/assets/17b6ecd7-2655-4cd0-8f9b-033784512440" />
+  <img width="578" height="540" alt="image" src="https://github.com/user-attachments/assets/17b6ecd7-2655-4cd0-8f9b-033784512440" /><br>
 느낀점 : 프롬프트를 어떻게 작성하느냐에 따라 이미지의 퀄리티가 달라지는 것 같다. 미션에 계속 몰입하느라 다양한 시도를 못해본 게 아쉽다.<br> 
 여유가 있다면 다양한 유형의 프롬프트를 작성해서 프롬프트 유형별 퀄리티 및 사진 결과를 분류해 리스트업해보고싶다는 생각이 들었다.<br>
   
@@ -161,7 +161,7 @@ AI를 단순 보조 도구가 아닌, **성장을 위한 동료**로 활용해�
 
   `"TypeError: undefined is not a function"이 화면에 떠있고, 사람이 모니터 앞에 엎드려서 자고있어. 그리고 그 사람 앞에서 고양이가 키보드를 두드리고 있는 그림 그려줘. 지브리 스타일로.`
   
-  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1ea49ee-9508-4a4d-a342-0b181baab686" />
+  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1ea49ee-9508-4a4d-a342-0b181baab686" /><br>
 느낀점 : 내가 원하는 결과를 얻으려면 프롬프트를 얼마나 구체적이고 정밀하게 설계해야 하는지에 다시 한번 느꼈다. <br>
 세부 디테일을 명확히 제시할수록 AI가 의도를 정확히 반영할 것이라고 생각했지만 점점 원하는 방향과 달라지는 것을 보고 "무엇을,<br> 왜, 어떻게 보여주길 원하는지"에 대해서 한문장씩 분리해 작성해보고, 프롬프트를 작성하는 실력을 끌어올려야겠다.
   
