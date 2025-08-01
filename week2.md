@@ -169,6 +169,7 @@ AI를 단순 보조 도구가 아닌, **성장을 위한 동료**로 활용해�
   <summary>J273</summary>
 
   #### 퀘스트: gist 홍보 포스터 만들기
-  
+  <img width="584" height="447" alt="릴프 2주차 홍보포스터 " src="https://github.com/user-attachments/assets/4d4fc7eb-cd94-4a86-ac83-36d4b80a559d" /><br>
+
   
 </details>
