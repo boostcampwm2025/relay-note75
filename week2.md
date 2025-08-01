@@ -153,7 +153,11 @@ AI를 단순 보조 도구가 아닌, **성장을 위한 동료**로 활용해�
   <summary>J247</summary>
 
   #### 퀘스트: 에러 메시지를 예술 작품으로 만들기
+
+  `"TypeError: undefined is not a function"이 화면에 떠있고, 사람이 모니터 앞에 엎드려서 자고있어. 그리고 그 사람 앞에서 고양이가 키보드를 두드리고 있는 그림 그려줘. 지브리 스타일로.`
   
+  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1ea49ee-9508-4a4d-a342-0b181baab686" />
+
   
 </details>
 
